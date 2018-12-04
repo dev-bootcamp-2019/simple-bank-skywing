@@ -2,7 +2,7 @@ pragma solidity ^0.4.21;
 contract SimpleBank {
 
     //
-    // State variables
+    // State variables - just for git push to trigger build.
     //
     
     /* Fill in the keyword. Hint: We want to protect our users balance from other contracts*/
